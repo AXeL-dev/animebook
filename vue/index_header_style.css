@@ -1,0 +1,53 @@
+/* animebook index header style by AXeL */
+
+.header {
+background: #e74c3c; /* rouge */
+color: #ffffff;
+border-bottom: 3px solid #515151;
+}
+
+.header h1, form {
+display: inline-block;
+height: auto;
+vertical-align: middle;
+}
+
+.header h1 {
+width: 50%;
+margin: 0px;
+padding: 10px 0px 10px 50px;
+font-size: 25px;
+}
+
+.header form {
+width: 45%;
+margin-right: 10px;
+}
+
+.header form label {
+font-size: 15px;
+}
+
+.header form input {
+width: 20%;
+height: 23px;
+background: #f0f0f0;
+color: #515151;
+border: 1px solid #ffffff;
+border-radius: 3px;
+margin: 5px;
+}
+
+#cnx {
+height: 28px;
+background: #515151;
+color: #f0f0f0;
+border: 1px solid #515151;
+}
+
+#cnx:hover {
+background: #f0f0f0;
+color: #515151;
+border-color: #f0f0f0;
+}
+

@@ -1,0 +1,67 @@
+/* animebook news style by AXeL */
+
+#news_box {
+width: 80%;
+display: inline-block;
+text-align: center;
+}
+
+#news_box form {
+width: 50%;
+padding: 10px;
+margin: 10px;
+background: #515151;
+overflow: hidden;
+display: inline-block;
+border-radius: 2px;
+}
+
+#news_box form textarea {
+background: #f0f0f0;
+color: #515151;
+border: none;
+width: 98%;
+height: 90px;
+padding: 5px;
+margin: 10px 0px;
+height: 90px;
+resize: none;
+}
+
+#btn_publier {
+background: #e74c3c;
+color: #f0f0f0;
+border: none;
+padding: 5px;
+border-radius: 2px;
+float: right;
+}
+
+#btn_publier:hover {
+background: #f0f0f0;
+color: #515151;
+}
+
+.btns {
+background: #e74c3c;
+color: #f0f0f0;
+float: right;
+margin-left: 8px;
+border-radius: 23px;
+font-size: 12px;
+font-weight: bold;
+}
+
+#btn_agrandir {
+padding: 5px 7px;
+}
+
+#btn_fermer {
+padding: 5px 9px;
+}
+
+.btns:hover {
+background: #f0f0f0;
+color: #515151;
+}
+

@@ -1,0 +1,21 @@
+/* animebook chat box style by AXeL */
+
+#chat_box {
+width: 19%;
+border-left: 3px solid #515151;
+float: right;
+}
+
+#chat_box_container {
+min-height: 508px;
+}
+
+#chat_box span {
+display: inline-block;
+background: #e74c3c;
+color: #f0f0f0;
+padding: 10px 0;
+font-weight: bold;
+width: 100%;
+text-align: center;
+}

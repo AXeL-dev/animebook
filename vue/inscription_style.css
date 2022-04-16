@@ -1,0 +1,45 @@
+/* animebook inscription style by AXeL */
+
+img {
+float: left;
+width: 420px;
+height: 500px;
+margin-left: 20px;
+}
+
+.inscription_form {
+float: right;
+width: 60%;
+margin-right: 20px;
+}
+
+.inscription_form h1 {
+padding-bottom: 30px;
+}
+
+.inscription_form label {
+display: inline-block;
+width: 250px;
+text-align: left;
+margin-right: 20px;
+}
+
+.inscription_form input {
+border: 1px solid #515151;
+border-radius: 5px;
+width: 240px;
+height: 24px;
+}
+
+#inscr {
+background: #515151;
+color: #f0f0f0;
+height: 35px;
+margin: 50px 0 0 25%;
+}
+
+#inscr:hover {
+background: #e74c3c;
+border-color: #e74c3c;
+}
+

@@ -1,0 +1,19 @@
+/* animebook profil style by AXeL */
+
+#profil_container {
+display: inline-block;
+text-align: center;
+width: 80%;
+}
+
+#profil_avatar {
+width: 100px;
+margin: 20px 0px;
+}
+
+#profil_container span {
+display: inline-block;
+width: 250px;
+text-align: left;
+margin: 20px 0px;
+}

@@ -1,0 +1,95 @@
+/* animebook acceuil header style by AXeL */
+
+.body_middle { /* le css de cette class est juste provisoire ;)) */
+text-align: center;
+}
+
+img {
+vertical-align: middle;
+}
+
+.header {
+background: #e74c3c; /* rouge */
+color: #ffffff;
+border-bottom: 3px solid #515151;
+}
+
+.header h1, ul {
+display: inline-block;
+height: auto;
+vertical-align: middle;
+}
+
+.header h1 {
+width: 50%;
+margin: 0px;
+padding: 10px 0px 10px 50px;
+font-size: 25px;
+}
+
+.navbar {
+width: 40%;
+}
+
+.navbar li {
+//display: inline-block;
+float: right;
+list-style: none;
+margin: 0px 5px;
+}
+
+.navbar li a {
+text-decoration: none;
+color: #f0f0f0;
+padding: 10px 5px;
+border-radius: 3px;
+font-weight: bold;
+font-size: 14px;
+}
+
+.navbar li a:hover {
+color: #515151;
+}
+
+#drop_down {
+margin-top: 5px;
+cursor: pointer;
+}
+
+#sub_menu ul {
+display: none;
+position: absolute;
+width: 120px;
+right: 47px;
+}
+
+#sub_menu:hover ul {
+display: block;
+}
+
+#sub_menu ul li {
+margin: 0px;
+}
+
+#sub_menu ul li a {
+display: inline-block;
+width: 140px;
+text-align: center;
+background: #f0f0f0;
+color: #515151;
+border-radius: 0px;
+}
+
+#sub_menu ul li a:hover {
+background: #515151;
+color: #f0f0f0;
+}
+
+#sub_menu ul li a img, .image_with_right_marge {
+margin-right: 4px;
+}
+
+.sub_menu_up {
+float: right;
+}
+

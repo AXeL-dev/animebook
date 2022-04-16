@@ -1,0 +1,12 @@
+/* animebook error_msg style by AXeL */
+
+.error_msg {
+//width: 100%;
+padding: 10px;
+font-size: 16px;
+font-weight: bold;
+text-align: center;
+background: #515151;
+color: #ffffff;
+}
+
